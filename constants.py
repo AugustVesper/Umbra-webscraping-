@@ -1,0 +1,2 @@
+TITLE_PATTERN = 'h3'
+LINK_PATTERN = 'a'
